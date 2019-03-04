@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         backpack.tf old docs
 // @namespace    https://steamcommunity.com/profiles/76561198320810968
-// @version      1.0
+// @version      1.1
 // @description  have links to the old documentation
 // @author       manic
 // @grant        none
@@ -70,7 +70,7 @@
             '                    </h6>\n' +
             '                    <ul class="list-unstyled">\n' +
             '                        <li>\n' +
-            '                            <a href="api/index.html">\n' +
+            '                            <a href="/api/index.html">\n' +
             '                                API documentation\n' +
             '                            </a>\n' +
             '                        </li>\n' +
