@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         backpack.tf old docs
 // @namespace    https://steamcommunity.com/profiles/76561198320810968
-// @version      1.1
+// @version      1.2
 // @description  have links to the old documentation
 // @author       manic
 // @grant        none
@@ -12,7 +12,7 @@
 // @downloadURL     https://github.com/mninc/bptf-old-docs/raw/master/old_docs.user.js
 
 // @run-at       document-end
-// @match        https://backpack.tf/developer
+// @match        https://backpack.tf/developer/*
 // @match        https://backpack.tf/api/docs*
 // ==/UserScript==
 
